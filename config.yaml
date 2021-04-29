@@ -1,0 +1,17 @@
+jupiter:
+    distance: 5.2 # AU
+    albedo: 0.52 
+    temperature: 121 # K
+    peak_wavelength: 0.0042 # m
+earth:
+    distance: 1 # AU
+    albedo: 0.3
+    temperature: 250.15 # K
+    peak_wavelength: 0.01005 # m
+moon:
+    distance_to_earth: 3.844e8 # m
+    radius: 1.737e6 # m
+pluto:
+    radius: 1150000 # m
+    distance_at_perigee: 4.4e12 # m
+    distance_at_apogee: 7.3e12 # m

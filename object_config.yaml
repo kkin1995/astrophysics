@@ -1,0 +1,6 @@
+object: earth
+distance: 1 # AU
+albedo: 0.3 
+temperature: 250.15 # K
+peak_wavelength: 0.01005 # m
+radius: 6371000 # m
