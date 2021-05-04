@@ -1,8 +1,11 @@
 jupiter:
+    radius: 71492.0e3 # m
     distance: 5.2 # AU
     albedo: 0.52 
     temperature: 121 # K
     peak_wavelength: 0.0042 # m
+    distance_at_perigee: 740.522e9 # m
+    distance_at_apogee: 816.618e9 # m
 earth:
     distance: 1 # AU
     albedo: 0.3
