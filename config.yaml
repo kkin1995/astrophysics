@@ -18,3 +18,7 @@ pluto:
     radius: 1150000 # m
     distance_at_perigee: 4.4e12 # m
     distance_at_apogee: 7.3e12 # m
+sodium_vapor_lamp:
+    lambda_1: 5890.0e-10 # m
+    lambda_2: 5896.0e-10 # m
+    total_power: 35 # W
