@@ -14,6 +14,8 @@ earth:
 moon:
     distance_to_earth: 3.844e8 # m
     radius: 1.737e6 # m
+    albedo: 0.11
+    distance: 0.999985879 # AU
 pluto:
     radius: 1150000 # m
     distance_at_perigee: 4.4e12 # m
